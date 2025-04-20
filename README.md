@@ -1,2 +1,6 @@
 # first_repo
 a repo to help me learn git
+
+This is what I put in to describe my project. 
+
+I am praying it all works out lol
